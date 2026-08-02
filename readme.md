@@ -28,7 +28,7 @@ Before running the project, ensure you have:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Nainamanghani/SolarEnergyAi
+git clone [https://github.com/Mohit150105/Energy_agent]
 cd SolarEnergyAi
 
 2️⃣ Create a Virtual Environment
